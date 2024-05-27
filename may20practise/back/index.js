@@ -40,4 +40,4 @@ mongoose.connect('mongodb+srv://meryemosmanova24:meryemosmanova24@codem.0uejvk1.
 .catch((error) => {
     console.error('Error connecting to MongoDB:', error);
 });
-app.listen(3000)
+app.listen(3002)
